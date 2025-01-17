@@ -1,0 +1,3 @@
+C:/Users/safar/CLionProjects/mef/labwork3-iravasu/cmake-build-debug/CMakeFiles/labwork3_iravasu.dir
+C:/Users/safar/CLionProjects/mef/labwork3-iravasu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/safar/CLionProjects/mef/labwork3-iravasu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
